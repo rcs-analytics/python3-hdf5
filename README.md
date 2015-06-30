@@ -1,4 +1,4 @@
-# Dockerfile for `docker pull rcsa/python3-hdf5` Image
+# Dockerfile for image `docker pull rcsa/python3-hdf5`
 
 # Ingredients:
 
